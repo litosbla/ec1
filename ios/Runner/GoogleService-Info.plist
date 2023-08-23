@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>902666784052-n90gortdjdc4j7fe8ogdv8lob4kr0v24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.902666784052-n90gortdjdc4j7fe8ogdv8lob4kr0v24</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>902666784052-ht3j2bgnht9gh7ah93av26c5edjhjm68.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIB-GPrI9nKLHi8tQuuzW-2HN5hpaxy_Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>902666784052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.riveAnimation</string>
+	<key>PROJECT_ID</key>
+	<string>singin-example-60a21</string>
+	<key>STORAGE_BUCKET</key>
+	<string>singin-example-60a21.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:902666784052:ios:72f2d888ec8773f387a961</string>
+</dict>
+</plist>

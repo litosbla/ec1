@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "902666784052",
+    "project_id": "singin-example-60a21",
+    "storage_bucket": "singin-example-60a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902666784052:android:314cea68b0c1042887a961",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902666784052-ht3j2bgnht9gh7ah93av26c5edjhjm68.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rive_animation",
+            "certificate_hash": "1f1f488fccd2360cc30475a8782bdcdff4326a9d"
+          }
+        },
+        {
+          "client_id": "902666784052-janndoovevdhte2okbujpr1tf4fesoqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqysKGdivrFLUGNTJ5JWeEH_a18yA0emg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902666784052-janndoovevdhte2okbujpr1tf4fesoqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
